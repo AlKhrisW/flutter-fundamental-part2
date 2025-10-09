@@ -1,16 +1,24 @@
-# layout_flutter
+## Jobsheet 5.1 Membangun Layout
 
-A new Flutter project.
+**Nama  : Aldo Khrisna Wijaya**
 
-## Getting Started
+**NIM   : 2341760091**
 
-This project is a starting point for a Flutter application.
+**Kelas : SIB - 3C**
 
-A few resources to get you started if this is your first Flutter project:
+## Hasil Percobaan
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Praktikum 1 Langkah 2
+![Screenshot layout_flutter](images/readme/01.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Praktikum 1 Langkah 4
+![Screenshot layout_flutter](images/readme/02.png)
+
+3. Praktikum 2 
+![Screenshot layout_flutter](images/readme/03.png)
+
+4. Praktikum 3
+![Screenshot layout_flutter](images/readme/04.png)
+
+5. Praktikum 4
+![Screenshot layout_flutter](images/readme/05.png)
